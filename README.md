@@ -4,7 +4,7 @@
 
 
 # :page_facing_up: Career
-|    What   |    When   |                 What               |         Where        |
+|    What   |    When   |                 How               |         Where        |
 |:---------:|:---------:|:----------------------------------:|:--------------------:|
 | Education | 2020.02 ~ | Department of Business Informatics | Hanyang Univ.BIS Lab |
 | Prize     | 2021.09   | 3rd in text classification model development | 제 2회 삼성카드 데이터분석 공모전 ( scic2021) |
