@@ -4,10 +4,10 @@
 
 
 # :page_facing_up: Career
-|    What   |    When   |                 How                |         Where        |
+|    What   |    When   |                 What               |         Where        |
 |:---------:|:---------:|:----------------------------------:|:--------------------:|
 | Education | 2020.02 ~ | Department of Business Informatics | Hanyang Univ.BIS Lab |
-
+| Prize     | 2021.09   | 3rd in text classification model development | 제 2회 삼성카드 데이터분석 공모전 ( scic2021) |
 
 # :chart_with_upwards_trend: Stats
 [![Hundredeuk2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hundredeuk2)](https://github.com/anuraghazra/github-readme-stats)
