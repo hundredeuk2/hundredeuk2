@@ -12,8 +12,10 @@
 
 # :page_facing_up: Education
 
-* 2020.03 ~ 2022.02 Hanyang Univ. Business Informatics / BIS Lab
-* 2014.03 ~ 2020.02 Kangnam Univ. Industry System Engneering
+2020.03 ~ 2022.02 Hanyang Univ. Business Informatics / BIS Lab
+ * 스마트팩토리 설비 예지보전 알고리즘 및 가이드북 제작 프로젝트 (2020.07 ~ 2020.11)
+
+2014.03 ~ 2020.02 Kangnam Univ. Industry System Engneering
 
 
 # :chart_with_upwards_trend: Stats
