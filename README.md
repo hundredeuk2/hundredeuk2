@@ -7,14 +7,14 @@
 # :computer: Record
 
 * K-인공지능 제조데이터 분석 경진대회 우수상 (2021.12)
-* 삼성카드 데이터 공모전 Track 1 고객피드백 분류 모델 개발 3위 (2021.09)
+* 삼성카드 데이터 공모전 Track 1 고객피드백 분류 모델 개발 부문 3위 (2021.09)
 
 
-# :page_facing_up: Career
-|    What   |    When   |                 How               |         Where        |
-|:---------:|:---------:|:----------------------------------:|:--------------------:|
-| Education | 2020.02 ~ | Department of Business Informatics | Hanyang Univ.BIS Lab |
-| Prize     | 2021.09   | 3rd in text classification model development | 제 2회 삼성카드 데이터분석 공모전 ( scic2021) |
+# :page_facing_up: Education
+
+* 2020.03 ~ 2022.02 Hanyang Univ. Business Informatics / BIS Lab
+* 2014.03 ~ 2020.02 Kangnam Univ. Industry System Engneering
+
 
 # :chart_with_upwards_trend: Stats
 [![Hundredeuk2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hundredeuk2)](https://github.com/anuraghazra/github-readme-stats)
