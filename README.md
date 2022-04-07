@@ -3,7 +3,7 @@
 # :wave: Profile
 * Phone : 010-5347-8614
 * Email : leehd1995@gmail.com
-
+* LinkedIn: www.linkedin.com/in/헌득-이-ba1b74236
 # :computer: Record
 
 * K-인공지능 제조데이터 분석 경진대회 우수상 (2021.12)
