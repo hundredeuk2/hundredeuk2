@@ -14,8 +14,9 @@
 # :page_facing_up: Education
 
 2020.03 ~ 2022.02 Hanyang Univ. Business Informatics / BIS Lab
+ * 리뷰데이터를 활용한 소비자 요구사항 분석 논문작성 (2022.02)
  * 스마트팩토리 설비 예지보전 알고리즘 및 가이드북 제작 프로젝트 (2020.07 ~ 2020.11)
-
+ 
 2014.03 ~ 2020.02 Kangnam Univ. Industry System Engneering
 
 
