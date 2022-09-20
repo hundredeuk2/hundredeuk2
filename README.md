@@ -4,6 +4,7 @@
 * Phone : 010-5347-8614
 * Email : leehd1995@gmail.com
 * LinkedIn: www.linkedin.com/in/hundredeuk2
+* Resume : https://attractive-bubbler-67e.notion.site/DataScientist-dba811b95a29450a8e6d842a066eacfd
 
 # :computer: Record
 
