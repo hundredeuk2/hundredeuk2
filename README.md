@@ -15,13 +15,19 @@
 
 2022.09.19 ~ Naver Boostcamp Ai Tech 
  * NLP Section
+ * DocVQA Project - Aistage
+ * MRC OpenDomain QuestionAnswering Competition
+ * KLUE Relation Extract Competition
+ * STS Competition
 
 2020.03 ~ 2022.02 Hanyang Univ. Business Informatics / BIS Lab
- * 리뷰데이터를 활용한 소비자 요구사항 분석 논문작성 (2022.02)
+ * 리뷰데이터를 활용한 소비자 요구사항 분석 Paper works (2022.02)
  * 스마트팩토리 설비 예지보전 알고리즘 및 가이드북 제작 프로젝트 (2020.07 ~ 2020.11)
- 
-2014.03 ~ 2020.02 Kangnam Univ. Industry System Engneering
+ * 빈집 정비지원기구 역할 강화 및 비즈니스 로드맵 개발 프로젝트 (2020.06 - 2021.01)
 
+2014.03 ~ 2020.02 Kangnam Univ. Industry System Engneering
+ * 서브웨이 대기열 개선 (주문방식 변경을 중심으로) (2018.11)
+ * 카페 회전율 개선 프로젝트 (2017.11)
 
 # :chart_with_upwards_trend: Stats
 [![Hundredeuk2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hundredeuk2)](https://github.com/anuraghazra/github-readme-stats)
