@@ -8,7 +8,7 @@
 # :computer: Record
 
 * K-인공지능 제조데이터 분석 경진대회 우수상 (2021.12)
-* 삼성카드 데이터 공모전 Track 1 고객피드백 분류 모델 개발 부문 3위 (2021.09)
+* [삼성카드 데이터 공모전 Track 1 고객피드백 분류 모델 개발 부문 3위](https://github.com/hundredeuk2/Customer-Feedback-Classifier) (2021.09)
 * 2018 산업시스템공학과 학술제 대상 (2018.11)
 
 # :page_facing_up: Education
