@@ -22,7 +22,7 @@
 
 2020.03 ~ 2022.02 Hanyang Univ. Business Informatics / BIS Lab
  * 리뷰데이터를 활용한 소비자 요구사항 분석 Paper works (2022.02)
- * 스마트팩토리 설비 예지보전 알고리즘 및 가이드북 제작 프로젝트 (2020.07 ~ 2020.11)
+ * [스마트팩토리 설비 예지보전 알고리즘 및 가이드북 제작 프로젝트](https://www.kamp-ai.kr/front/dataset/AiDataDetail.jsp?AI_SEARCH=&page=1&DATASET_SEQ=9&EQUIP_SEL=&GUBUN_SEL=&FILE_TYPE_SEL=&WDATE_SEL=) (2020.07 ~ 2020.11)
  * 빈집 정비지원기구 역할 강화 및 비즈니스 로드맵 개발 프로젝트 (2020.06 - 2021.01)
 
 2014.03 ~ 2020.02 Kangnam Univ. Industry System Engneering
