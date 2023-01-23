@@ -16,6 +16,7 @@
 2022.09.19 ~ Naver Boostcamp Ai Tech 
  * NLP Section
  * DocVQA Project - Aistage
+ * Data Annotation - Law Data in Korean
  * MRC OpenDomain QuestionAnswering Competition
  * KLUE Relation Extract Competition
  * STS Competition
