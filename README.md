@@ -16,10 +16,10 @@
 2022.09.19 ~ Naver Boostcamp Ai Tech 
  * NLP Section
  * DocVQA Project - Aistage
- * Data Annotation - Law Data in Korean
- * MRC OpenDomain QuestionAnswering Competition
- * KLUE Relation Extract Competition
- * STS Competition
+ * [Data Annotation](https://github.com/hundredeuk2/level2_dataannotation_nlp-level2-nlp-03) - Law Data in Korean
+ * [MRC OpenDomain QuestionAnswering Competition](https://github.com/boostcampaitech4lv23nlp1/level2_mrc_nlp-level2-nlp-03)
+ * [KLUE Relation Extract Competition](https://github.com/boostcampaitech4lv23nlp1/level2_klue_nlp-level2-nlp-03)
+ * [STS Competition](https://github.com/hundredeuk2/Semantic-Textual-Similarity)
 
 2020.03 ~ 2022.02 Hanyang Univ. Business Informatics / BIS Lab
  * 리뷰데이터를 활용한 소비자 요구사항 분석 Paper works (2022.02)
